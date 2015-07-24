@@ -1,0 +1,23 @@
+
+table {
+	font-family: Helvetica, sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+	margin: auto;
+	background-color: white;
+}
+td {
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+
+ 	margin: 5px;
+/*	padding: 10px;*/
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
